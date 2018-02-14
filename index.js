@@ -11,8 +11,8 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  // cart_obj = {}
-  // acrt_obj[item] = Math.floor(Math.random() * 100)
+  cart_obj = {}
+  acrt_obj[item] = Math.floor(Math.random() * 100)
 }
 
 function viewCart() {
